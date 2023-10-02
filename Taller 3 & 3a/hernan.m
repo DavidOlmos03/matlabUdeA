@@ -1,0 +1,1 @@
+fprintf('el numerodor es %d y el denominador es %2d',3.00 , 6)

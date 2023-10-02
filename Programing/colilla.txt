@@ -1,0 +1,42 @@
+
+**************************************
+Trabajador: Adelaida Nieto
+   Total horas laboradas:           35
+          Horas normales:           35
+            Horas extras:            0
+          Salario normal:     70000.00
+           Salario extra:         0.00
+       Subsidio familiar:     90000.00
+            Salario neto:    160000.00
+**************************************
+
+
+**************************************
+Trabajador: Pedro Ramirez
+   Total horas laboradas:           48
+          Horas normales:           40
+            Horas extras:            8
+          Salario normal:     72000.00
+           Salario extra:     18720.00
+       Subsidio familiar:    120000.00
+            Salario neto:    210720.00
+**************************************
+
+
+**************************************
+Trabajador: Manuela Rodriguez
+   Total horas laboradas:           50
+          Horas normales:           40
+            Horas extras:           10
+          Salario normal:    120000.00
+           Salario extra:     39000.00
+       Subsidio familiar:         0.00
+            Salario neto:    159000.00
+**************************************
+
+
+******************
+Trabajador: Pedro Martinez
+   Total horas laboradas: 35
+          Horas normales: 35
+            Horas extras: 0

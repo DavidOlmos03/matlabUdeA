@@ -1,0 +1,24 @@
+
+**************************************
+Trabajador: Alberto Saldarriaga
+Total horas laboradas:           50
+Horas normales:           40
+Horas extras:           10
+Salario normal:     72000.00
+Salario extra:     23400.00
+Subsidio familiar:     60000.00
+Salario neto:    155400.00
+**************************************
+
+
+**************************************
+Trabajador: Luis Gil
+Total horas laboradas:           39
+Horas normales:           39
+Horas extras:            0
+Salario normal:    117000.00
+Salario extra:         0.00
+Subsidio familiar:         0.00
+Salario neto:    117000.00
+**************************************
+

@@ -1,0 +1,24 @@
+Nombre del empleado:       Sara
+Código de la sucursal:     1
+Código del empleado:       01-1
+Salario mensual:         4000000
+
+****************************************************
+
+Nombre del empleado:      David
+Código de la sucursal:     2
+Código del empleado:       02-1
+Salario mensual:         5000000
+
+****************************************************
+
+Nombre del empleado:      Diana
+Código de la sucursal:     3
+Código del empleado:       03-1
+Salario mensual:         2000000
+
+****************************************************
+
+salario sucursal 1: 4000000
+salario sucursal 2: 5000000
+salario sucursal 3: 2000000

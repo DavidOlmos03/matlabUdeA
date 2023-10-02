@@ -1,0 +1,12 @@
+
+**************************************
+Trabajador: 'juan'
+   Total horas laboradas:           24
+          Horas normales:           24
+            Horas extras:            0
+          Salario normal:        48.00
+           Salario extra:         0.00
+       Subsidio familiar:     60000.00
+            Salario neto:     60048.00
+**************************************
+
